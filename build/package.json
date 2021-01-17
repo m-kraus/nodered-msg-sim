@@ -29,10 +29,9 @@
         }
     ],
     "dependencies": {
-        "node-red": "1.2.7",
-        "node-red-contrib-azureiothubnode": "^0.5.3",
+        "node-red-contrib-msg-size": "^1.0.0",
         "node-red-contrib-azure-iot-device": "^0.2.0",
-        "node-red-contrib-msg-size": "^1.0.0"
+        "node-red": "1.2.7"
     },
     "engines": {
         "node": ">=10"
